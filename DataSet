@@ -1,0 +1,18 @@
+## 📂 Dataset
+
+This project uses the **CREMA-D (Crowd-Sourced Emotional Multimodal Actors Dataset)**.
+
+🔗 Download Dataset:
+https://www.kaggle.com/datasets/ejlok1/cremad
+
+### 📖 Description
+CREMA-D is a speech emotion dataset containing audio recordings from actors expressing different emotions such as happy, sad, angry, fearful, and neutral.
+
+### ⚠️ Note
+Due to the large size of the dataset, it is not included in this repository.
+
+### 📥 How to Use
+1. Download dataset from the link above  
+2. Extract the files  
+3. Place them inside the `dataset/` folder  
+4. Run the project  
